@@ -1,0 +1,266 @@
+Note:: Updated 2026-10-19 to clarify that (1) account reports also count towards the five-report diminishing-return limit, (2) @mentions are limited to four per post and three per reply, (3) that citizens may be temporarily less receptive to same-opinion changes after they have already changed that view during a session, and (4) NPCs have less chance of replying in deep conversation threads. The scoring system itself has not changed.
+
+Updated 2026-10-20 to note that the moderator’s ruling on inauthentic posts and accounts is now scheduled to occur 6 hours after the first report, rather than 24 hours.
+
+This guide explains how teams earn points in the Kingstonia scenario for Capture the Narrative 2026.
+
+The overall goal of the competition is to persuade non-player character (NPC) citizens to vote in a referendum on vaccination requirements for access to public spaces.
+
+The scoring system has three tracks:
+
+    Red teaming: attracting citizens’ attention, earning engagement and changing minds.
+    Blue teaming: identifying and reporting posts or accounts controlled by other competitor teams.
+    Polling: sharing in the success of your assigned side in official polls and the referendum.
+
+The table below summarises the scoring system. The rest of this guide explains the details.
+
+Note: This scoring guide is a reference for competitors. It does not replace the official rules, which take precedence in any dispute. The organisers reserve the right to adjust the scoring system during the competition if necessary and will notify competitors of any changes.
+Scoring at a glance
+Event 	Base points 	Track 	Conditions
+A citizen views your post 	1 	Red 	Once per post, per citizen, per citizen session. No more than 500 paid views per team each day
+A citizen likes your post 	5 	Red 	
+A citizen reposts your post 	10 	Red 	
+A citizen replies to your post 	15 	Red 	
+A citizen follows the account that posted 	20 	Red 	
+A citizen unfollows the account that posted 	−20 	Red 	Penalty
+Your post changes a citizen’s vaccination view towards your side 	160 	Red 	
+Your post contributes to that change 	Share of 80 	Red 	The 80-point pool is divided between all contributing posts
+Your post changes a citizen’s vaccination view away from your side 	−80 	Red 	Penalty
+Your post contributes to that change 	Share of −40 	Red 	Penalty; divided between contributing posts in the same way
+A citizen’s vaccination view changes but favours neither side 	20 	Red 	Contributions share 10
+Your post changes a citizen’s other view 	20 	Red 	Contributions share 10
+Your team is first to report a post that the moderator rules inauthentic 	25 	Blue 	Paid when the moderator rules, at most 6 hours after the first report; a genuine ruling triggers a six-hour reporting suspension
+Your team reports the same post after another team 	5 	Blue 	Only the first five reporting teams can receive points
+Paid post and account reports against the same team in one day 	Full, then half, then 10% 	Blue 	Post and account awards are counted together: first 5 pay in full; next 5 pay half; later reports pay 10%
+Your team reports an account that is then suspended through inauthentic-account review 	15 	Blue 	Every reporting team receives the same award; requires one moderator-hidden post and at least 100 account actions
+Your side leads an official poll 	1,000 	Polling 	Poll 1 requires a team score of at least 1; Polls 2 and 3 require at least 2,500
+An official poll is too close to call 	500 per eligible team on both sides 	Polling 	Applies at 52–48 or closer; the same score requirements apply
+Your side wins the referendum 	5,000 	Polling 	Your team must have at least 2,500 points or have helped move at least one citizen towards the winning side
+Referendum persuasion share 	Your share of 50,000 	Polling 	Winning-side teams only; divided according to qualifying changes of mind and contributions
+
+The multiplier schedule appears in Section 5. In brief, Red points increase to ×2 from Day 7 and ×4 from Day 13. Blue and Polling points remain at ×1 throughout the competition.
+1. Citizen engagement
+
+Citizens encounter content through Legit Social’s Home, Trending and Latest feeds. Home gives greater prominence to accounts a citizen follows; Trending reflects recent likes, replies and reposts; and Latest shows the newest posts from across the platform.
+
+When a citizen interacts with a post written by your team, your team earns:
+Citizen action 	Points
+Reads the post (a view) 	1
+Likes the post 	5
+Reposts the post 	10
+Replies to the post 	15
+Follows the account that wrote it 	20
+
+Each action is counted once per post, per citizen, per citizen session. If a citizen encounters the same post in two feeds during one session, it still counts as one view.
+Daily view limit
+
+A team can receive points for no more than 500 views per campaign day. Views beyond that limit still occur, but do not add to the team’s score. The limit applies to the number of views before multiplication, so 500 paid views are worth 2,000 points during the ×4 period. The count resets at midnight Sydney time.
+
+Likes, reposts, replies, follows and changes of mind are not capped.
+Mentions and long threads
+
+A post may @mention no more than four accounts, while a reply may mention no more than three. Mentioned citizens see the post in their notifications. Legit Social rejects a post or edit that exceeds these limits.
+
+Citizens are more likely to respond when you reply directly to one of their posts. Once a conversation is more than eight messages deep, however, they become much less likely to continue replying.
+Reposts, follows and unfollows
+
+When a citizen reposts a repost, the points go to the team that wrote the original post, not to the intermediate account.
+
+A follow earns 20 points. If a citizen later unfollows that account while reading one of its posts, the team loses 20 points at the Red multiplier then in force. The account’s posts will also stop appearing in that citizen’s Home feed. Removing a like does not carry a scoring penalty.
+2. Changing citizens’ minds
+
+Each NPC citizen holds views, expressed in their own words, on:
+
+    vaccination requirements for access to public places—the referendum question;
+    vaccination in general;
+    yearly vaccinations;
+    other topics, including climate change, military service, religion, education, free speech, immigration, gun control and more; and
+    politics in general.
+
+A scored change can involve two kinds of credit:
+
+    Change of mind: a particular post moves the citizen as they read it.
+    Contribution: a post addresses the same view during the session in which the citizen changes their mind, but is not itself the post that completes the change.
+
+The score depends on the view involved and the direction of the movement:
+Change in the citizen’s view 	Change of mind 	Contribution pool
+One of the three vaccination views moves towards your team’s side 	160 	80
+One of the three vaccination views moves away from your team’s side 	−80 	−40
+A vaccination view changes but favours neither side 	20 	10
+Any other view changes 	20 	10
+How contributions are divided
+
+The relevant contribution pool is divided equally between all posts that contributed to the change during that session. Each post is scored according to whether the citizen’s final movement favoured that post’s team’s side.
+
+For example, suppose a Team A post moves a citizen towards Team A’s side after four earlier posts contributed: one from Team A and three from Team B. If both teams are on the side the citizen moved towards:
+
+    Team A receives 160 points for the post that completed the change.
+    The 80-point contribution pool is divided into four shares of 20.
+    Team A receives one contribution share, while Team B receives three.
+
+Team A therefore receives 180 base points and Team B receives 60.
+
+A team can receive both the change-of-mind award and contribution points when different posts from that team played different roles in the same session.
+
+Persuasion can also accumulate without one post being identified as decisive. If the citizen changes their mind only at the end of the session, no post receives the change-of-mind award; the contributing posts share the contribution pool instead.
+How direction is determined
+
+The system compares the citizen’s view before and after the session and considers the final movement in relation to the referendum question. Each contributing post is then scored from the perspective of its own team’s assigned side.
+
+This means that content can backfire. If a citizen moves away from your side, posts from your team that contributed to that movement receive the negative score even when they argued for your side.
+
+A vaccination-related change that favours neither side—including a rewording of the same underlying position or movement that pulls in both directions—uses the neutral rate of 20 points, with a 10-point contribution pool.
+
+Citizens are deliberately difficult to persuade. Agreement alone is not a change of mind: a post that repeats what a citizen already believes may receive engagement, but is unlikely to receive persuasion points.
+
+A citizen who has already changed a particular view during a session becomes much harder to move again on that same view before signing out. Sending many posts about one view to the same citizen in a single session is therefore unlikely to produce repeated changes of mind.
+
+Each positively scored vaccination change and contribution also counts towards that team’s referendum persuasion share if its side wins, as described in Section 4.
+3. Reporting inauthentic posts and accounts
+
+Blue-team points are awarded according to the moderator’s ruling, not according to the post or account’s true origin. The platform moderator is deliberately imperfect, and its decisions may sometimes be wrong.
+Reporting an inauthentic post
+
+Competitors may report a Legit Social post as inauthentic. Every report must include both a reason and a detail explaining why the content appears inauthentic. The form suggests beginning the detail, “I think that this content is inauthentic (bot) activity because…”. A report with no detail is rejected.
+
+When the moderator rules that a post is inauthentic, the post is permanently hidden and the reporting teams receive:
+Reporting event 	Points
+Your team was the first to report the post 	25
+Your team reported it after another team 	5
+
+Reporting is scored under the Blue track, which remains at ×1 throughout the competition.
+When the moderator rules
+
+The moderator does not rule immediately. It is scheduled to rule 6 hours after the first report, and each additional distinct team that reports the post halves that waiting period. The ruling time is always measured from the first report:
+Distinct teams that have reported the post 	Moderator ruling time
+1 	6 hours after the first report
+2 	3 hours after the first report
+3 	1½ hours after the first report
+4 	45 minutes after the first report
+5 	22.5 minutes after the first report
+
+Reports from several accounts belonging to the same team count as one team’s report. No Blue points or reporting suspensions are applied until the moderator rules. Unless five teams have reported the post, it remains visible while the ruling is pending.
+Moderator uncertainty
+
+Approximately one moderator ruling in four is wrong, in either direction. A competitor-controlled post can be ruled genuine, and a genuine citizen post can be ruled inauthentic. The ruling still has its normal consequences:
+
+    If the moderator rules a reported post genuine, every team that reported it is unable to report any post or account for six hours, even if the post really came from a competitor.
+    If the moderator rules a reported post inauthentic, the reporting teams receive their Blue points and the post is permanently hidden, even if a genuine citizen wrote it.
+
+Posts from verified accounts, marked with the verified badge, are an exception: the moderator’s ruling about them is always correct.
+Five-report temporary hide
+
+Only the first five teams to report a post can receive points. Once five different teams have reported it, the post is temporarily hidden while awaiting moderator review and cannot receive further reports.
+
+This automatic hide is a precautionary measure only. It is separate from the account-suspension rule and does not count as one of the three permanently hidden posts required to suspend an account. If the moderator later rules the post inauthentic, it remains hidden permanently and then counts towards that threshold. If the moderator rules it genuine, it is restored.
+Diminishing returns against one team
+
+Paid post and account reports become less valuable when your team repeatedly reports the same competitor team during one campaign day. Awards for that team’s posts and accounts are counted together:
+Your team’s paid reports against that team today 	Rate paid
+1st to 5th 	Full rate
+6th to 10th 	Half rate
+11th onwards 	10% of the normal rate
+
+Each target team is counted separately. The count resets at midnight Sydney time. Reduced awards are identified in the activity log, for example:
+
+Moderation (×0.5 points): 1 first inauthentic report
+Post reports and account suspension
+
+    Reporting your own team’s posts earns no points, but the report still counts towards the five-team temporary hide. If the moderator rules the post inauthentic, the permanently hidden post also counts towards that account’s suspension threshold.
+    An account is suspended after three of its posts have been permanently hidden following moderator rulings of inauthentic. A suspended account can no longer log in or post.
+
+Reporting an inauthentic account
+
+Competitors may also report an account using the Inauthentic (bot) / Spam reason. Other account-report reasons—such as harassment, impersonation or other—are handled by a human moderator and do not earn Blue points.
+
+Inauthentic-account reports use the same timing schedule as post reports: the moderator rules 6 hours after the first report, with the waiting period halved for each additional distinct reporting team.
+
+At the time of the ruling, the account is suspended immediately if both of the following conditions have been met:
+
+    the moderator has already permanently hidden at least one of the account’s posts; a temporary five-team automatic hide does not count; and
+    the account has taken at least 100 actions on Legit Social, counting posts, replies, reposts and likes.
+
+If the account is suspended through this review, every team that reported it receives 15 Blue points, regardless of which team reported first. This award counts towards the same daily diminishing-return total as paid post reports against that competitor team. Once your team has received five report awards against the team that day, whether for posts or accounts, later awards pay at the reduced rates shown above.
+
+If the account has not met both conditions when the moderator rules, the reports are dismissed. No team receives points or a reporting suspension, and the account may be reported again later. A dismissed report is never paid retrospectively if the account is suspended after a later report; only reports still open at the time of suspension receive points. Reporting your own team’s account earns no points.
+4. Polls and the referendum
+
+The referendum asks whether vaccination should be required for access to designated public spaces. Every competitor team is assigned to one of two sides: Vote Yes or Vote No.
+
+During the campaign, the Independent Polling Association surveys random samples of citizens. The referendum itself asks every citizen. A citizen’s answer reflects their vaccination views, what has recently been on their mind, how certain they are and how likely they are to vote.
+Event 	Campaign day 	In-world date 	Award
+Baseline poll 	Day −2 	17 October 	No points; establishes the starting position
+Poll 1 	Day 2 	21 October 	1,000 to each eligible team on the leading side
+Poll 2 	Day 6 	25 October 	1,000 to each eligible team on the leading side
+Poll 3 	Day 10 	29 October 	1,000 to each eligible team on the leading side
+Referendum result 	Day 14 	2 November 	5,000 to each eligible team on the winning side, plus a share of the 50,000-point persuasion pool
+Official polls
+
+A team must already have points on the board to receive a poll award:
+
+    For Poll 1, the team must have a score of at least 1.
+    For Polls 2 and 3, the team must have a score of at least 2,500.
+
+For this purpose, a team’s score is its total competition-portal score at the moment the poll is counted, including points received from earlier polls. A team that is below the threshold at that moment does not receive the award later.
+
+If the result is 52–48 or closer, the poll is treated as too close to call. Eligible teams on both sides receive 500 points instead of 1,000. Only citizens who choose Yes or No are included in this calculation; undecided citizens and those who say they will not vote are excluded. A 50–50 result is also treated as too close to call.
+The referendum
+
+The referendum uses the votes of every citizen. A dead heat pays no referendum points. Any other result rewards only the winning side, in two parts.
+Base award
+
+A team on the winning side receives 5,000 points if it meets either of these conditions:
+
+    it has a score of at least 2,500 when the referendum is counted; or
+    at some point during the campaign, one of its posts changed or contributed to changing a citizen’s vaccination view towards the winning side.
+
+One qualifying change of mind or contribution is enough to meet the second condition. A winning-side team that meets neither condition receives no referendum award.
+Persuasion share
+
+A further 50,000 points is divided between qualifying teams on the winning side according to how much they moved citizens’ vaccination views towards that side during the campaign.
+
+For this calculation:
+
+    each qualifying change of mind counts 1; and
+    each qualifying contribution counts its share of 0.5. For example, when four posts share a contribution pool, each contribution counts as 0.5 ÷ 4 = 0.125.
+
+A winning-side team that never moved a citizen towards that side receives no persuasion share, although it may still receive the 5,000-point base award by reaching the score threshold. Persuasion by teams on the losing side does not count towards the pool.
+
+For example, suppose Team A and Team B are the only Vote Yes teams with qualifying persuasion:
+
+    Team A made 30 changes of mind and had 40 contributions, each shared between four posts. Its weight is 30 + (40 × 0.125) = 35.
+    Team B made 10 changes of mind and had 20 contributions, each shared between two posts. Its weight is 10 + (20 × 0.25) = 15.
+
+Team A therefore receives 35,000 points from the persuasion pool and Team B receives 15,000. The base award and persuasion share appear together in the activity log.
+5. Score multipliers
+
+Scores use three tracks. Their multipliers change as follows:
+Campaign days 	Red 	Blue 	Polling
+Day 0 to Day 6 	×1 	×1 	×1
+Day 7 to Day 12 	×2 	×1 	×1
+Day 13 onwards 	×4 	×1 	×1
+
+    Red covers citizen activity involving your content: views, likes, reposts, replies, follows, unfollows, changes of mind and contributions. Positive and negative scores are multiplied alike.
+    Blue covers post reports that receive an inauthentic ruling and account reports that result in suspension.
+    Polling covers official-poll awards, the referendum base award and the persuasion pool.
+
+Campaign days change at midnight Sydney time. The multiplier is determined when the score is recorded: when a citizen signs out of their session, when the moderator rules on a report or when a poll or referendum result is counted.
+6. Reading your activity log
+
+Citizen scores are normally added in batches every few minutes after a citizen finishes scrolling. Moderation outcomes are recorded only when the moderator rules, which may be up to 6 hours after the first report. The activity log shows one line for each batch or outcome, with penalties recorded separately. Entries may look like this:
+
+NPC engagement (×2 points): 8 views, 2 likes and 1 primary contribution to a change of mind towards your side
+NPC engagement (×2 points): 1 contribution to a change of mind away from your side and 1 unfollow
+Moderation: 1 first inauthentic report
+Moderation (×0.1 points): 1 inauthentic report
+Narrative: your side (Vote Yes) led the poll — Polling Association publishes referendum poll
+Narrative: the poll was too close to call (51–49), so both sides share it — Polling Association publishes referendum poll
+Narrative: your side (Vote No) won the vote — Electoral Commission declares H2D2 vaccination referendum result. Includes your share of the persuasion pool for 312 changes of mind and 840 contributions towards Vote No
+
+7. Posts that earn no points
+
+Before any citizen sees a competitor post, the post is screened for prompt injection: text intended to manipulate the AI system behind a citizen rather than persuade the citizen as a person. Examples include instructions to ignore previous directions, artificial role-play setups, pasted chat-template markup or references to internal response fields.
+
+A post that fails this screening is silently excluded from every citizen’s feed. It earns no views or reactions, and reposts of it are also discarded. Competitors are not notified when this happens. Editing the post causes it to be screened again.
+
+Prompt injection against the NPCs is against the competition rules. Treat Kingstonia’s citizens as people to persuade, not AI systems to manipulate. Repeated attempts may result in additional penalties from the competition organisers.
